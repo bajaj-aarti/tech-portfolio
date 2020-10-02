@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Aarti Bajaj', // Title for your website.
     tagline: 'Continuously improving, aspiring technologist and avid learner.',
     profilePhoto: 'img/profile.png',
-    url: 'https://github.com/bajaj-aarti/', // Your website URL
+    url: 'https://bajaj-aarti.github.io/', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/aartibajaj/',
+        linkedin: 'aartibajaj',
         twitter: '',
-        github: 'https://github.com/bajaj-aarti/',
+        github: 'bajaj-aarti',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
